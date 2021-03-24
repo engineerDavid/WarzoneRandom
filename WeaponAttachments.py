@@ -1,8 +1,7 @@
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import json
-
+import pandas as pd
 
 #This scrapper is the data from the Weapon Scrapper that gets all the weapon links from the home page
 Weaponlinks = ['https://gamewith.net/cod-coldwar/article/show/21938', 'https://gamewith.net/cod-coldwar/article/show/22111', 'https://gamewith.net/cod-coldwar/article/show/21939', 
@@ -68,20 +67,30 @@ for link in range(len(Weaponlinks)):
         MaxLevel = Table1[1][3]
         #pre-defind array since there are # 8 diffrent types of attatchmnets
         Attachments =[[],[],[],[],[],[],[],[]]
+        z = 7
+        if len(df_list) > 7:
+            z = 9 
+        for r in range(len(df_list)-z):
+            tt = len(df_list)-4-r
+            Table = df_list[tt]
+            # print(Table)
+            try:
+                for j in range(len(Table['Attachment'])):
+                    Attachments[r].append(Table['Attachment'][j])
 
-        for r in range(len(Tables)):
-            Table = df_list[Tables[r]]
-            for j in range(len(Table['Attachment'])):
-                Attachments[r].append(Table['Attachment'][j])
+            except():
+                 r = r +1 
+                 
             
 
 
         WeaponsUpdate(link, WeaponName, WeaponType, WeaponFeature, UnlockLevel, MaxLevel, Attachments[0], Attachments[1], Attachments[3] , Attachments[3], 
         Attachments[4], Attachments[5], Attachments[6], Attachments[7])
-
+        with open('Sample.json', 'w') as fp:
+            json.dump(Weapons, fp)
         print(Weapons)
-    except(KeyError):
-        print()
+    except():
+        print("An exception occurred")
+# with open('Sample.json', 'w') as fp:
+#     json.dump(Weapons, fp)
 
-with open('result.json', 'w') as fp:
-    json.dump(Weapons, fp)
