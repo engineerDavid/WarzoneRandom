@@ -3,7 +3,7 @@
       "XM4": {
         "WeaponType": "Assault Rifle",
         "WeaponFeature": "Full-auto assault rifle. Reliable damage with improved fire rate. Fair weapon control when sustaining fire.",
-        "Unlock Level": "Level 4",
+        "Unlock Level": "Full-auto assault rifle. Reliable damage with improved fire rate. Fair weapon control when sustaining fire.",
         "Max Level": "55",
         "Attatchments": {
           "Optics": [
@@ -63,7 +63,7 @@
       "AK-47": {
         "WeaponType": "Assault Rifle",
         "WeaponFeature": "Full-auto assault rifle. High damage with a marginally slower fire rate. Excellent stopping power for mid to short range counters.",
-        "Unlock Level": "Level 7",
+        "Unlock Level": "Full-auto assault rifle. High damage with a marginally slower fire rate. Excellent stopping power for mid to short range counters.",
         "Max Level": "55",
         "Attatchments": {
           "Optics": [
@@ -123,7 +123,7 @@
       "Krig 6": {
         "WeaponType": "Assault Rifle",
         "WeaponFeature": "Full-auto assault rifle. Improved damage and accuracy. Excellent weapon control and visibility when sustaininng fire.",
-        "Unlock Level": "Level 16",
+        "Unlock Level": "Full-auto assault rifle. Improved damage and accuracy. Excellent weapon control and visibility when sustaininng fire.",
         "Max Level": "55",
         "Attatchments": {
           "Optics": [
@@ -203,7 +203,7 @@
       "QBZ-83": {
         "WeaponType": "Assault Rifle",
         "WeaponFeature": "Full-auto assault rifle. Superior mobility with improved handling speeds. Erratic initial recoil with less accurate hipfire spread.",
-        "Unlock Level": "Level 31",
+        "Unlock Level": "Full-auto assault rifle. Superior mobility with improved handling speeds. Erratic initial recoil with less accurate hipfire spread.",
         "Max Level": "55",
         "Attatchments": {
           "Optics": [
@@ -263,7 +263,7 @@
       "FFAR 1": {
         "WeaponType": "Assault Rifle",
         "WeaponFeature": "Full-auto assault riflfe. Fast fire rate with quick reloading speeds. Modest damage and slightly less ammo capacity",
-        "Unlock Level": "Level 40",
+        "Unlock Level": "Full-auto assault riflfe. Fast fire rate with quick reloading speeds. Modest damage and slightly less ammo capacity",
         "Max Level": "55",
         "Attatchments": {
           "Optics": [
@@ -343,7 +343,7 @@
       "Groza": {
         "WeaponType": "Assault Rifle",
         "WeaponFeature": "Full-auto assault rifle. Excellent handling speeds with improved damage. Fast fire rate and fair damage range.",
-        "Unlock Level": "Season 1 Battle Pass Tier 31",
+        "Unlock Level": "Full-auto assault rifle. Excellent handling speeds with improved damage. Fast fire rate and fair damage range.",
         "Max Level": "55",
         "Attatchments": {
           "Optics": [
@@ -416,6 +416,1371 @@
             "Diamondback Reflex",
             "Noch Sova Thermal"
           ]
+        }
+      }
+    },
+    "6": {
+      "MP5": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. Fast fire rate with low recoil. Good visibility and control while firing.",
+        "Unlock Level": "Full-auto submachine gun. Fast fire rate with low recoil. Good visibility and control while firing.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "40 Rnd Drum",
+            "Jungle-Style Mag",
+            "40 Rnd Speed Mag",
+            "STANAG 50 Rnd Drum",
+            "SAS Mag Clamp",
+            "Salvo 50 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Stock": [
+            "9.5\" Extended",
+            "10.1\" Cavalry Lancer",
+            "9.5\" Reinforced Heavy",
+            "9.5\" Ranger",
+            "9.1\" Rifled",
+            "9.5\" Task Force"
+          ],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "7": {
+      "Milano 821": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
+        "Unlock Level": "Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "45 Rnd Drum",
+            "Fast Mag",
+            "45 Rnd Speed Mag",
+            "STANAG 55 Rnd Drum",
+            "Vandal Speed Loader",
+            "Salvo 55 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Stock": [
+            "8.9\" Extended",
+            "9.5\" Cavalry Lancer",
+            "10.1\" Reinforced Heavy",
+            "10.5\" Ranger",
+            "9.5\" Rifled",
+            "10.6\" Task Force"
+          ],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "8": {
+      "AK74u": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. Improved damage and range with reliable weapon control.",
+        "Unlock Level": "Full-auto submachine gun. Improved damage and range with reliable weapon control.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ],
+          "Muzzle": [
+            "40 Rnd Drum",
+            "Taped Mags",
+            "40 Rnd Speed Mag",
+            "Spetsnaz 50 Rnd Drum",
+            "GRU Mag Clamp",
+            "VDV 50 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Stock": [
+            "9.3\" Extended",
+            "8.4\" Cavalry Lancer",
+            "9.3\" VDV Reinforced",
+            "10.3\" Liberator",
+            "8.4\" Rifled",
+            "10.3\" Task Force"
+          ],
+          "Magazine": [
+            "Muzzle Brake 5.56",
+            "Flashguard 5.56",
+            "Sound Suppressor",
+            "Spetsnaz Compensator",
+            "KGB Eliminator",
+            "GRU Suppressor"
+          ],
+          "Handle": [
+            "Quickdot LED",
+            "Millstop Reflex",
+            "Kobra Red Dot",
+            "Visiontech 2X",
+            "Microflex LED",
+            "Hawksmoor",
+            "Snappoint",
+            "Diamondback Reflex",
+            "Sillix Holoscout",
+            "Fastpoint Reflex",
+            "Axial Arms 3X",
+            "SUSAT Multizoom"
+          ]
+        }
+      }
+    },
+    "9": {
+      "Ksp": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "3-round burst submaching gun. High damage with moderate range. Burst fire spread is less efficient at long range.",
+        "Unlock Level": "3-round burst submaching gun. High damage with moderate range. Burst fire spread is less efficient at long range.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "42 Rnd",
+            "Fast Mag",
+            "42 Rnd Speed Mag",
+            "STANAG 48 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 48 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "10": {
+      "Bullfrog": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. Reliable damage with improved range. Large ammo pool and less accurate hipfire spread.",
+        "Unlock Level": "Full-auto submachine gun. Reliable damage with improved range. Large ammo pool and less accurate hipfire spread.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ],
+          "Muzzle": [
+            "65 Rnd",
+            "Fast Mag",
+            "65 Rnd Speed Mag",
+            "STANAG 85 Rnd",
+            "Vandal Speed Loader",
+            "VDV 85 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Stock": [
+            "7.1\" Extended",
+            "7\" Cavalry Lancer",
+            "6.7\" VDV Reinforced",
+            "8.1\" Liberator",
+            "7.6\" Rifled",
+            "7.4\" Task Force"
+          ],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "11": {
+      "MAC 10": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. Fastest fire rate in class with higher vertical recoil. Improved handling speeds with reduced damage.",
+        "Unlock Level": "Full-auto submachine gun. Fastest fire rate in class with higher vertical recoil. Improved handling speeds with reduced damage.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "43 Rnd Drum",
+            "Fast Mag",
+            "43 Rnd Speed Mag",
+            "STANAG 53 Rnd Drum",
+            "Vandal Speed Loader",
+            "Salvo 53 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Stock": [
+            "5.3\" Extended",
+            "6.5\" Cavalry Lancer",
+            "6.1\" Reinforced Heavy",
+            "5.3\" Ranger",
+            "6.5\" Rifled",
+            "5.9\" Task Force"
+          ],
+          "Magazine": [
+            "Muzzle Brake 9",
+            "Flashguard 9",
+            "Sound Suppressor",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Suppressor"
+          ],
+          "Handle": [
+            "Quickdot LED",
+            "Millstop Reflex",
+            "Kobra Red Dot",
+            "Visiontech 2X",
+            "Microflex LED",
+            "Hawksmoor",
+            "Snappoint",
+            "Diamondback Reflex",
+            "Sillix Holoscout",
+            "Fastpoint Reflex",
+            "Axial Arms 3x",
+            "Susat Multizoom"
+          ]
+        }
+      }
+    },
+    "12": {
+      "Type 63": {
+        "WeaponType": "Tactical Rifle",
+        "WeaponFeature": "Semi-automatic tactical rifle. High damage and reliable accuracy with lower ammo capacity. Excellent visibility and control while firing.",
+        "Unlock Level": "Semi-automatic tactical rifle. High damage and reliable accuracy with lower ammo capacity. Excellent visibility and control while firing.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ],
+          "Muzzle": [
+            "30 Rnd",
+            "Taped Mags",
+            "30 Rnd Speed Mag",
+            "Bakelite 35 Rnd",
+            "GRU Mag Clamp",
+            "VDV 35 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Ergonomic Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Stock": [
+            "16.4\" Rapid Fire",
+            "18.3\" Cavalry Lancer",
+            "18.3\" Strike Team",
+            "16.4\" Titanium",
+            "21.5\" Match Grade",
+            "21.5\" Task Force"
+          ],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "13": {
+      "M16": {
+        "WeaponType": "Tactical Rifle",
+        "WeaponFeature": "3-round burst tactical rifle. Excellent burst fire accuracy when aiming down sights, and high damage in short range encounters.",
+        "Unlock Level": "3-round burst tactical rifle. Excellent burst fire accuracy when aiming down sights, and high damage in short range encounters.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "45 Rnd",
+            "Jungle-Style Mag",
+            "45 Rnd Speed Mag",
+            "STANAG 54 Rnd",
+            "SAS Mag Clamp",
+            "Salvo 54 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Foregrip",
+            "SFOD Speedgrip"
+          ],
+          "Stock": [
+            "16.3\" Rapid Fire",
+            "15.9\" Cavalry Lancer",
+            "15.9\" Strike Team",
+            "16.3\" Titanium",
+            "20.5\" Match Grade",
+            "20.5\" Task Force"
+          ],
+          "Magazine": [
+            "Muzzle Brake 5.56",
+            "Flashguard 5.56",
+            "Silencer",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Silencer"
+          ],
+          "Handle": [
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Axial Arms 3X",
+            "Millstop Reflex",
+            "Royal & Kross 4X",
+            "Quickdot LED",
+            "Hawksmoor",
+            "Sillix Holoscout",
+            "SUSAT Multizoom",
+            "Hangman RF",
+            "Vulture Custom Zoom",
+            "AN/PVS-4 Thermal"
+          ]
+        }
+      }
+    },
+    "14": {
+      "Aug": {
+        "WeaponType": "Tactical Rifle",
+        "WeaponFeature": "Burst Fire tactical rifle. High damage with moderate recoil and slower movement speeds when firing. Built in optic provides 1.5x magnification",
+        "Unlock Level": "Burst Fire tactical rifle. High damage with moderate recoil and slower movement speeds when firing. Built in optic provides 1.5x magnification",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "45 Rnd Drum",
+            "Jungle-Style Mag",
+            "45 Rnd Speed Mag",
+            "STANAG 54 Rd Drum",
+            "SAS Mag Clamp",
+            "Salvo 54 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Foregrip",
+            "SFOD Speedgrip"
+          ],
+          "Stock": [
+            "18\" Rapid Fire",
+            "17.9\" Cavalry Lancer",
+            "18.2\" Strike Team",
+            "17\" Titanium",
+            "19.6\" Match Grade",
+            "19.8\" Task Force"
+          ],
+          "Magazine": [
+            "Muzzle Brake 5.56",
+            "Flashguard 5.56",
+            "Silencer",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Silencer"
+          ],
+          "Handle": [
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Axial Arms 3X",
+            "Millstop Reflex",
+            "Royal & Kross 4X",
+            "Quickdot LED",
+            "Hawksmoor",
+            "Sillix Holoscout",
+            "SUSAT Multizoom",
+            "Hangman RF",
+            "Vulture Custom Zoom",
+            "AN/PVS-4 Thermal"
+          ]
+        }
+      }
+    },
+    "15": {
+      "DMR 14": {
+        "WeaponType": "Tactical Rifle",
+        "WeaponFeature": "Semi-auto tactical rifle. Increased fire rate with minimal recoil. Maintains reliable damage over longer range encounters.",
+        "Unlock Level": "Semi-auto tactical rifle. Increased fire rate with minimal recoil. Maintains reliable damage over longer range encounters.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "30 Rnd (DMR 14)",
+            "Jungle-Style Mag",
+            "30 Rnd Speed Mag (DMR 14)",
+            "STANAG 35 Rnd",
+            "SAS Mag Clamp",
+            "SALVO 35 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Foregrip",
+            "SFOD Speedgrip"
+          ],
+          "Stock": [
+            "17\" Rapid Fire",
+            "17.1\" Cavalry Lancer",
+            "17.1\" Strike Team",
+            "16.3\" Titanium",
+            "20.8\" Match Grade",
+            "20.8\" Task Force"
+          ],
+          "Magazine": [
+            "Muzzle Brake 7.62",
+            "Flashguard 7.62",
+            "Silencer",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Silencer"
+          ],
+          "Handle": [
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Axial Arms 3X",
+            "Millstop Reflex",
+            "Royal & Kross 4X",
+            "Quickdot LED",
+            "Hawksmoor",
+            "Sillix Holoscout",
+            "SUSAT Multizoom",
+            "Hangman RF",
+            "Vulture Custom Zoom",
+            "AN/PVS-4 Thermal"
+          ]
+        }
+      }
+    },
+    "16": {
+      "Ksp": {
+        "WeaponType": "Light Machine Gun",
+        "WeaponFeature": "Full-auto light machine gun. Improved fire rate with a larger ammo capacity. Subdued recoil and good visibility while firing.",
+        "Unlock Level": "Full-auto light machine gun. Improved fire rate with a larger ammo capacity. Subdued recoil and good visibility while firing.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "100 Rnd",
+            "Fast Mag",
+            "100 Rnd Speed Mag",
+            "Spetsnaz 125 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 125 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "17": {
+      "RPD": {
+        "WeaponType": "Light Machine Gun",
+        "WeaponFeature": "Full-auto light machine gun. Excellent handling speeds with less ammo capacity. Less recoil control when sustaining fire.",
+        "Unlock Level": "Full-auto light machine gun. Excellent handling speeds with less ammo capacity. Less recoil control when sustaining fire.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ],
+          "Muzzle": [
+            "100 Rnd",
+            "Fast Mag",
+            "100 Rnd Speed Mag",
+            "Spetsnaz 125 Rnd",
+            "Vandal Speed Loader (RPD)",
+            "VDV 125 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Stock": [
+            "16.5\" Cut Down",
+            "16.5\" Spetsnaz RPK Barrel",
+            "16.5\" Division",
+            "14.7\" GRU Cut Down",
+            "20.3\" Match Grade",
+            "20.3\" Task Force"
+          ],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "18": {
+      "Ksp": {
+        "WeaponType": "Light Machine Gun",
+        "WeaponFeature": "Full-auto light machine gun. Consistent ammo capacity with heavy-grain rounds provides premium stoppig power and bullet economy. Slower fire rate and handling speeds",
+        "Unlock Level": "Full-auto light machine gun. Consistent ammo capacity with heavy-grain rounds provides premium stoppig power and bullet economy. Slower fire rate and handling speeds",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "100 Rnd",
+            "Fast Mag",
+            "100 Rnd Speed Mag",
+            "STANAG 125 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 125 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "19": {
+      "Pelington 703": {
+        "WeaponType": "Sniper Rifle",
+        "WeaponFeature": "Bolt-action sniper rifle. Hand loaded with improved handling speeds and faster rechamber. 1-shot kill to the head or upper chest.",
+        "Unlock Level": "Bolt-action sniper rifle. Hand loaded with improved handling speeds and faster rechamber. 1-shot kill to the head or upper chest.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "7 Rnd",
+            "Fast Loader",
+            "7 Rnd Speed Mag",
+            "STANAG 9 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 9 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Bipod",
+            "SFOD Speedgrip"
+          ],
+          "Stock": [
+            "25\" Extended",
+            "23.3\" Cavalry Lancer",
+            "25\" Reinforced Heavy",
+            "27.2\" Combat Recon",
+            "21.7\" Ultralight",
+            "26.5\" Tiger Team"
+          ],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "20": {
+      "Ksp": {
+        "WeaponType": "Sniper Rifle",
+        "WeaponFeature": "Bolt-action sniper rifle. High damage with moderate sway. 1-shot kill to the head, upper-chest, and shoulders.",
+        "Unlock Level": "Bolt-action sniper rifle. High damage with moderate sway. 1-shot kill to the head, upper-chest, and shoulders.",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "7 Rnd",
+            "Fast Mag",
+            "7 Rnd Speed Mag",
+            "STANAG 9 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 9 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "21": {
+      "Ksp": {
+        "WeaponType": "Sniper Rifle",
+        "WeaponFeature": "Semi-auto sniper rifle. Heavy recoil with slow handling. 1-shot kill to the head or upper chest. Hold L Shift while ADS to steady",
+        "Unlock Level": "Semi-auto sniper rifle. Heavy recoil with slow handling. 1-shot kill to the head or upper chest. Hold L Shift while ADS to steady",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "7 Rnd",
+            "Fast Mag",
+            "7 Rnd Speed Mag",
+            "STANAG 9 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 9 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "22": {
+      "Ksp": {
+        "WeaponType": "Handgun",
+        "WeaponFeature": "Semi-auto pistol. Good accuracy with a modest ammo capacity. High damage in close encounters.",
+        "Unlock Level": "Semi-auto pistol. Good accuracy with a modest ammo capacity. High damage in close encounters.",
+        "Max Level": "35",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "12 Rnd",
+            "Fast Mag",
+            "12 Rnd Speed Mag",
+            "STANAG 14 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 14 Rnd Fast Mag"
+          ],
+          "Barrel": [],
+          "Underbarrel": [],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "23": {
+      "M16": {
+        "WeaponType": "Handgun",
+        "WeaponFeature": "3-round burst pistol. Fast cyclic rate of fire with a short delay between bursts. Increased ammo capacity and slightly slower reloading speeds.",
+        "Unlock Level": "3-round burst pistol. Fast cyclic rate of fire with a short delay between bursts. Increased ammo capacity and slightly slower reloading speeds.",
+        "Max Level": "35",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "24 Rnd",
+            "Fast Mag",
+            "24 Rnd Speed Mag",
+            "STANAG 30 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 30 Rnd Fast"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "7.8\" Extended",
+            "6.5\" Cavalry Lancer",
+            "7.2\". Reinforced Heavy",
+            "7.8\" Chrome Lined",
+            "6.5\" Takedown",
+            "7.2\" Task Force (Diamatti)"
+          ],
+          "Stock": [
+            "Muzzle Brake 9",
+            "Flashguard 9",
+            "Sound Suppressor",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Suppressor"
+          ],
+          "Magazine": [
+            "Quickdot LED",
+            "Otero Mini Reflex",
+            "Microflex LED"
+          ],
+          "Handle": []
+        }
+      }
+    },
+    "24": {
+      "SPR 208": {
+        "WeaponType": "Handgun",
+        "WeaponFeature": "Double action revolver. High damage with increased penetration and lower muzzle velocity.",
+        "Unlock Level": "Double action revolver. High damage with increased penetration and lower muzzle velocity.",
+        "Max Level": "35",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "9 Rnd",
+            "Fast Mag (Magnum)",
+            "9 Rnd Speed Mag",
+            "STANAG 12 Rnd",
+            "Vandal Speed Loader (Magnum)",
+            "Salvo 12 Rnd Fast Mag"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "7.2\" Extended",
+            "5.9\" Cavalry Lancer",
+            "6.4\" Reinforced Heavy",
+            "7.5\" Chrome Lined",
+            "4.7\" Takedown",
+            "7.2\" Task Force"
+          ],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "25": {
+      "Ksp": {
+        "WeaponType": "Shotgun",
+        "WeaponFeature": "Pump-action shotgun. High damage with a possible 1-shot kill in close quarters. Hand loaded with moderate rechamber speed.",
+        "Unlock Level": "Pump-action shotgun. High damage with a possible 1-shot kill in close quarters. Hand loaded with moderate rechamber speed.",
+        "Max Level": "36",
+        "Attatchments": {
+          "Optics": [
+            "Duckbill Choke",
+            "Flash Cone 12 GA",
+            "Sound Suppressor",
+            "SOCOM Blast Mitigator",
+            "Agency Choke"
+          ],
+          "Muzzle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Barrel": [
+            "Tactical Stock",
+            "Shotgun Stock",
+            "Duster Pad",
+            "No Stock",
+            "SAS Combat Stock",
+            "Marathon Stock"
+          ],
+          "Underbarrel": [
+            "Tactical Stock",
+            "Shotgun Stock",
+            "Duster Pad",
+            "No Stock",
+            "SAS Combat Stock",
+            "Marathon Stock"
+          ],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "26": {
+      "Pelington 703": {
+        "WeaponType": "Shotgun",
+        "WeaponFeature": "Semi-auto shotgun. Reliable damage and pellet spread. Moderate recoil and visibility when firing.",
+        "Unlock Level": "Semi-auto shotgun. Reliable damage and pellet spread. Moderate recoil and visibility when firing.",
+        "Max Level": "36",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "9 Rnd Tube",
+            "STANAG 12 Rnd Tube"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "22.7\" Extended",
+            "23.5\" Cavalry Lancer",
+            "21.4\" Reinforced Heavy",
+            "24.6\" Ranger",
+            "20.3\" Hammer Forged",
+            "24.8\" Task Force"
+          ],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "27": {
+      "Any Primary Weapon": {
+        "WeaponType": "Shotgun",
+        "WeaponFeature": "Full-auto shotgun. Superior fire rate with reliable damage and the largest ammo pool in class. Hand loaded with slower reload speeds.",
+        "Unlock Level": "Full-auto shotgun. Superior fire rate with reliable damage and the largest ammo pool in class. Hand loaded with slower reload speeds.",
+        "Max Level": "36",
+        "Attatchments": {
+          "Optics": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ],
+          "Muzzle": [
+            "15 RND Tube",
+            "STANAG 18 RND"
+          ],
+          "Barrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Underbarrel": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Body": [
+            "13.7\" Extended",
+            "14.6\" Cavalry Lancer",
+            "13\" Reinforced Heavy",
+            "14.6\" Ranger",
+            "13.3\" Hammer Forged",
+            "14.4\" Task Force"
+          ],
+          "Stock": [
+            "Duckbill Choke",
+            "Flash Cone 12 GA",
+            "Sound Suppressor",
+            "Infantry V-Choke",
+            "SOCOM Blast Mitigator",
+            "Agency Choke"
+          ],
+          "Magazine": [
+            "Millstop Reflex",
+            "Quickdot LED",
+            "Microflex LED"
+          ],
+          "Handle": []
+        }
+      }
+    },
+    "28": {
+      "None": {
+        "WeaponType": "MAC 10",
+        "WeaponFeature": "Wakizashi",
+        "Unlock Level": "Wakizashi",
+        "Max Level": "36",
+        "Attatchments": {
+          "Optics": [],
+          "Muzzle": [],
+          "Barrel": [],
+          "Underbarrel": [],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "29": {
+      "MAC 10": {
+        "WeaponType": "Launcher",
+        "WeaponFeature": "Free-fire rocket launcher. Increased blast radius with heavy damage to vehicles, equipment, and personnel. Additional rockets provided.",
+        "Unlock Level": "Free-fire rocket launcher. Increased blast radius with heavy damage to vehicles, equipment, and personnel. Additional rockets provided.",
+        "Max Level": "0",
+        "Attatchments": {
+          "Optics": [],
+          "Muzzle": [],
+          "Barrel": [],
+          "Underbarrel": [],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "30": {
+      "None": {
+        "WeaponType": "MAC 10",
+        "WeaponFeature": "Wakizashi",
+        "Unlock Level": "Wakizashi",
+        "Max Level": "0",
+        "Attatchments": {
+          "Optics": [],
+          "Muzzle": [],
+          "Barrel": [],
+          "Underbarrel": [],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
+        }
+      }
+    },
+    "31": {
+      "None": {
+        "WeaponType": "MAC 10",
+        "WeaponFeature": "Wakizashi",
+        "Unlock Level": "Wakizashi",
+        "Max Level": "0",
+        "Attatchments": {
+          "Optics": [],
+          "Muzzle": [],
+          "Barrel": [],
+          "Underbarrel": [],
+          "Body": [],
+          "Stock": [],
+          "Magazine": [],
+          "Handle": []
         }
       }
     }
