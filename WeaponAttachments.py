@@ -1,6 +1,7 @@
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import json
 
 
 #This scrapper is the data from the Weapon Scrapper that gets all the weapon links from the home page
@@ -17,33 +18,61 @@ Weaponlinks = ['https://gamewith.net/cod-coldwar/article/show/21938', 'https://g
  'https://gamewith.net/cod-coldwar/article/show/22129', 'https://gamewith.net/cod-coldwar/article/show/22400', 'https://gamewith.net/cod-coldwar/article/show/23894', 
  'https://gamewith.net/cod-coldwar/article/show/23896', 'https://gamewith.net/cod-coldwar/article/show/23488']
 
-for r in range(len(WeaponClasslinks)):
-    # page = requests.get(WeaponClasslinks[r])
+WeaponsData = {}
 
-    # soup = BeautifulSoup(page.content, 'html.parser')
-    # results = soup.find('div', attrs={'class':'codcw_weapons'})
-    # table = results.find('table')
-    # table_body = table.find('tbody')
+# Data to be written
+def WeaponsUpdate(Name,WeaponType, WeaponFeature, UnlockLevel, MaxLevel, Optics, Muzzle, Barrel, Underbarrel, Body, Stock, Magazine, Handle):
+    Weapons ={
+        Name : {
+        "WeaponType" : WeaponType,
+        "WeaponFeature" : WeaponFeature,
+        "Unlock Level" : UnlockLevel,
+        "Max Level" : MaxLevel,
+        "Attatchments" : {
+            "Optics": Optics,
+            "Muzzle": Muzzle,
+            "Barrel": Barrel,
+            "Underbarrel": Underbarrel,
+            "Body": Body,
+            "Stock": Stock,
+            "Magazine": Magazine,
+            "Handle": Handle,
+            
+        },
+        
+    },
+
+    }
+
+    return Weapons
+
+# for r in range(len(Weaponlinks)):
+#     page = requests.get(WeaponClasslinks[r])
+
+#     soup = BeautifulSoup(page.content, 'html.parser')
+#     # results = soup.find('div', attrs={'class':'codcw_weapons'})
+#     # table = results.find('table')
+#     # table_body = table.find('tbody')
     
-    # print(table_body)
-    # #The urls for diffrent cold war guns
-    # WeaponUrls=[]
-    # break
-    url = WeaponClasslinks[r]
-    r = requests.get(url)
-    df_list = pd.read_html(r.text) # this parses all the tables in webpages to a list
-    df = df_list[1]
-    print(df)
-    df.head()
-    break
+#     # print(table_body)
+#     # #The urls for diffrent cold war guns
+#     # WeaponUrls=[]
+#     # break
+#     url = WeaponClasslinks[r]
+#     r = requests.get(url)
+#     df_list = pd.read_html(r.text) # this parses all the tables in webpages to a list
+#     df = df_list[1]
+#     print(df)
+#     df.head()
+#     break
 
 
-    #get the div id from the html file
-    # for ultag in soup.find(class='codcw_weapons'):
-    #     #find the a's within
-    #     for litag in ultag.find_all('a'):
-    #         #get the href
-    #         if litag.has_attr('href'):
-    #             CWurls.append(ColdWarurl+litag.attrs['href'])
+#     #get the div id from the html file
+#     # for ultag in soup.find(class='codcw_weapons'):
+#     #     #find the a's within
+#     #     for litag in ultag.find_all('a'):
+#     #         #get the href
+#     #         if litag.has_attr('href'):
+#     #             CWurls.append(ColdWarurl+litag.attrs['href'])
 
-    # print(CWurls)
+#     # print(CWurls)
