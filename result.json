@@ -1,0 +1,722 @@
+{
+    "0": {
+      "XM4": {
+        "WeaponType": "Assault Rifle",
+        "WeaponFeature": "Full-auto assault rifle. Reliable damage with improved fire rate. Fair weapon control when sustaining fire.",
+        "Unlock Level": "Level 4",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Millstop Reflex",
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Quickdot LED",
+            "Axial Arms 3X",
+            "Sillix Holoscout",
+            "Microflex LED",
+            "Hawksmoor",
+            "Royal & Kross 4X",
+            "SUSAT Multizoom",
+            "Diamondback Reflex",
+            "AN/PVS-4 Thermal"
+          ],
+          "Muzzle": [
+            "Muzzle Brake 5.56",
+            "Flashguard 5.56",
+            "Suppressor",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Suppressor"
+          ],
+          "Barrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Underbarrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Wire Stock",
+            "Duster Stock",
+            "Buffer Tube",
+            "SAS Combat Stock",
+            "Raider Pad"
+          ],
+          "Magazine": [
+            "40 Rnd",
+            "Jungle-Style Mag",
+            "40 Rnd Speed Mag",
+            "STANAG 50 Rnd",
+            "SAS Mag Clamp",
+            "Salvo 50 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "1": {
+      "AK-47": {
+        "WeaponType": "Assault Rifle",
+        "WeaponFeature": "Full-auto assault rifle. High damage with a marginally slower fire rate. Excellent stopping power for mid to short range counters.",
+        "Unlock Level": "Level 7",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Millstop Reflex",
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Quickdot LED",
+            "Axial Arms 3X",
+            "Sillix Holoscout",
+            "Microflex LED",
+            "Hawksmoor",
+            "Royal & Kross 4X",
+            "SUSAT Multizoom",
+            "Diamondback Reflex",
+            "Noch Sova Thermal"
+          ],
+          "Muzzle": [
+            "Muzze Brake 7.62",
+            "Flashguard 7.62",
+            "Suppressor",
+            "Spetsnaz Compensator",
+            "KGB Eliminator",
+            "GRU Suppressor"
+          ],
+          "Barrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Underbarrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Wire Stock",
+            "Duster Stock",
+            "No Stock",
+            "Spetsnaz PKM Stock",
+            "KGB Skeletal Stock"
+          ],
+          "Magazine": [
+            "40 Rnd",
+            "Taped Mags",
+            "40 Rnd Speed Mag",
+            "Bakelite 50 Rnd",
+            "GRU Mag Clamp",
+            "VDV 50 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "3": {
+      "QBZ-83": {
+        "WeaponType": "Assault Rifle",
+        "WeaponFeature": "Full-auto assault rifle. Superior mobility with improved handling speeds. Erratic initial recoil with less accurate hipfire spread.",
+        "Unlock Level": "Level 31",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Millstop Reflex",
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Quickdot LED",
+            "Axial Arms 3X",
+            "Sillix Holoscout",
+            "Microflex LED",
+            "Hawksmoor",
+            "Royal & Kross 4X",
+            "SUSAT Multizoom",
+            "Diamondback Reflex",
+            "AN/PVS-4 Thermal"
+          ],
+          "Muzzle": [
+            "Muzzle Brake 5.56",
+            "Flashguard 5.56",
+            "Suppressor",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Suppressor"
+          ],
+          "Barrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Underbarrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Marathon Stock",
+            "Duster Pad",
+            "CQB Pad",
+            "SAS Combat Stock",
+            "Raider Stock"
+          ],
+          "Magazine": [
+            "40 Rnd Drum",
+            "Jungle-Style Mag",
+            "40 Rnd Speed Mag",
+            "STANAG 50 Rnd Drum",
+            "SAS Mag Clamp",
+            "Salvo 50 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "7": {
+      "MP5": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. Fast fire rate with low recoil. Good visibility and control while firing.",
+        "Unlock Level": "Level 4",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Quickdot LED",
+            "Millstop Reflex",
+            "Kobra Red Dot",
+            "Visiontech 2X",
+            "Microflex LED",
+            "Hawksmoor",
+            "Snappoint",
+            "Diamondback Reflex",
+            "Sillix Holoscout",
+            "Fastpoint Reflex",
+            "Axial Arms 3X",
+            "SUSAT Multizoom"
+          ],
+          "Muzzle": [
+            "Muzzle Brake 9",
+            "Flashguard 9",
+            "Sound Suppressor",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Suppressor"
+          ],
+          "Barrel": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Underbarrel": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Collapsed Stock",
+            "Duster Stock",
+            "No Stock",
+            "SAS Combat Stock",
+            "Raider Stock"
+          ],
+          "Magazine": [
+            "40 Rnd Drum",
+            "Jungle-Style Mag",
+            "40 Rnd Speed Mag",
+            "STANAG 50 Rnd Drum",
+            "SAS Mag Clamp",
+            "Salvo 50 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "8": {
+      "Milano 821": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
+        "Unlock Level": "Level 13",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Quickdot LED",
+            "Millstop Reflex",
+            "Kobra Red Dot",
+            "Visiontech 2X",
+            "Microflex LED",
+            "Hawksmoor",
+            "Snappoint",
+            "Diamondback Reflex",
+            "Sillix Holoscout",
+            "Fastpoint Reflex",
+            "Axial Arms 3X",
+            "SUSAT Multizoom"
+          ],
+          "Muzzle": [
+            "Muzzle Brake 9",
+            "Flashguard 9",
+            "Sound Suppressor",
+            "Infantry Compensator",
+            "SOCOM Eliminator",
+            "Agency Suppressor"
+          ],
+          "Barrel": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Underbarrel": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Field Agent Grip",
+            "SFOD Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Wire Stock",
+            "Duster Stock",
+            "Marathon Stock",
+            "SAS Combat Stock",
+            "Raider Stock"
+          ],
+          "Magazine": [
+            "45 Rnd Drum",
+            "Fast Mag",
+            "45 Rnd Speed Mag",
+            "STANAG 55 Rnd Drum",
+            "Vandal Speed Loader",
+            "Salvo 55 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "11": {
+      "Bullfrog": {
+        "WeaponType": "SMG",
+        "WeaponFeature": "Full-auto submachine gun. Reliable damage with improved range. Large ammo pool and less accurate hipfire spread.",
+        "Unlock Level": "Level 43",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Quickdot LED",
+            "Millstop Reflex",
+            "Kobra Red Dot",
+            "Visiontech 2X",
+            "Microflex LED",
+            "Hawksmoor",
+            "Snappoint",
+            "Diamondback Reflex",
+            "Sillix Holoscout",
+            "Fastpoint Reflex",
+            "Axial Arms 3X",
+            "SUSAT Multizoom"
+          ],
+          "Muzzle": [
+            "Muzzle Brake 9",
+            "Flashguard 9",
+            "Sound Suppressor",
+            "Spetsnaz Compensator",
+            "KGB Eliminator",
+            "GRU Suppressor"
+          ],
+          "Barrel": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Underbarrel": [
+            "Foregrip",
+            "Red Cell Foregrip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Wire Stock",
+            "Duster Stock",
+            "No Stock",
+            "Spetsnaz PKM Stock",
+            "KGB Skeletal Stock"
+          ],
+          "Magazine": [
+            "65 Rnd",
+            "Fast Mag",
+            "65 Rnd Speed Mag",
+            "STANAG 85 Rnd",
+            "Vandal Speed Loader",
+            "VDV 85 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "14": {
+      "Type 63": {
+        "WeaponType": "Tactical Rifle",
+        "WeaponFeature": "Semi-automatic tactical rifle. High damage and reliable accuracy with lower ammo capacity. Excellent visibility and control while firing.",
+        "Unlock Level": "Level 4",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Axial Arms 3X",
+            "Millstop Reflex",
+            "Royal & Kross 4X",
+            "Quickdot LED",
+            "Hawksmoor",
+            "Sillix Holoscout",
+            "SUSAT Multizoom",
+            "Hangman RF",
+            "Vulture Custom Zoom",
+            "Noch Sova Thermal"
+          ],
+          "Muzzle": [
+            "Muzzle Brake 7.62",
+            "Flashguard 7.62",
+            "Silencer",
+            "Spetsnaz Compensator",
+            "KGB Eliminator",
+            "GRU Silencer"
+          ],
+          "Barrel": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Ergonomic Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Underbarrel": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Ergonomic Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Wire Stock",
+            "Duster Pad",
+            "No Stock",
+            "Spetsnaz PKM Stock",
+            "KGB Pad"
+          ],
+          "Magazine": [
+            "30 Rnd",
+            "Taped Mags",
+            "30 Rnd Speed Mag",
+            "Bakelite 35 Rnd",
+            "GRU Mag Clamp",
+            "VDV 35 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "19": {
+      "RPD": {
+        "WeaponType": "Light Machine Gun",
+        "WeaponFeature": "Full-auto light machine gun. Excellent handling speeds with less ammo capacity. Less recoil control when sustaining fire.",
+        "Unlock Level": "Level 22",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Kobra Red Dot",
+            "Axial Arms 3X",
+            "Visiontech 2X",
+            "Millstop Reflex",
+            "Sillix Holoscout",
+            "Royal & Kross 4X",
+            "SUSAT Multizoom",
+            "Quickdot LED",
+            "Hawksmoor",
+            "Hangman RF",
+            "Vulture Custom Zoom",
+            "Noch Sova Thermal"
+          ],
+          "Muzzle": [
+            "Muzzle Brake 7.62",
+            "Flashguard 7.62",
+            "Suppressor",
+            "Spetsnaz Compensator",
+            "KGB Eliminator",
+            "GRU Suppressor"
+          ],
+          "Barrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Underbarrel": [
+            "Foregrip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Spetsnaz Grip",
+            "Spetsnaz Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "KGB Target Designator",
+            "GRU 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "Wire Stock",
+            "Duster Stock",
+            "No Stock",
+            "Spetsnaz PKM Stock",
+            "KGB Skeletal Stock"
+          ],
+          "Magazine": [
+            "100 Rnd",
+            "Fast Mag",
+            "100 Rnd Speed Mag",
+            "Spetsnaz 125 Rnd",
+            "Vandal Speed Loader (RPD)",
+            "VDV 125 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "Spetsnaz Field Grip",
+            "Serpent Wrap",
+            "GRU Elastic Wrap"
+          ]
+        }
+      }
+    },
+    "21": {
+      "Pelington 703": {
+        "WeaponType": "Sniper Rifle",
+        "WeaponFeature": "Bolt-action sniper rifle. Hand loaded with improved handling speeds and faster rechamber. 1-shot kill to the head or upper chest.",
+        "Unlock Level": "Level 4",
+        "Max Level": "55",
+        "Attatchments": {
+          "Optics": [
+            "Visiontech 2X",
+            "Kobra Red Dot",
+            "Axial Arms 3X",
+            "Iron Sights",
+            "Sillix Holoscout",
+            "Royal & Kross 4X",
+            "SUSAT Multizoom",
+            "Vulture Custom Zoom",
+            "Millstop Reflex",
+            "Hangman RF",
+            "Ultrazoom Custom",
+            "AN/PVS-4 Thermal"
+          ],
+          "Muzzle": [
+            "Stabilizer .308",
+            "Flash Hider .308",
+            "Sound Moderator",
+            "Infantry Stabilizer",
+            "Task Force Shroud",
+            "Wrapped Suppressor"
+          ],
+          "Barrel": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Bipod",
+            "SFOD Speedgrip"
+          ],
+          "Underbarrel": [
+            "Front Grip",
+            "Infiltrator Grip",
+            "Patrol Grip",
+            "Bruiser Grip",
+            "Bipod",
+            "SFOD Speedgrip"
+          ],
+          "Body": [
+            "Steady Aim Laser",
+            "Mounted Flashlight",
+            "SOF Target Designator",
+            "SWAT 5mw Laser Sight",
+            "Tiger Team Spotlight",
+            "Ember Sighting Point"
+          ],
+          "Stock": [
+            "Tactical Stock",
+            "CQB Pad",
+            "Duster Pad",
+            "Marathon Stock",
+            "SAS Combat Stock",
+            "Raider Pad"
+          ],
+          "Magazine": [
+            "7 Rnd",
+            "Fast Loader",
+            "7 Rnd Speed Mag",
+            "STANAG 9 Rnd",
+            "Vandal Speed Loader",
+            "Salvo 9 Rnd Fast Mag"
+          ],
+          "Handle": [
+            "Speed Tape",
+            "Dropshot Wrap",
+            "Field Tape",
+            "SASR Jungle Grip",
+            "Serpent Wrap",
+            "Airborne Elastic Wrap"
+          ]
+        }
+      }
+    }
+  }

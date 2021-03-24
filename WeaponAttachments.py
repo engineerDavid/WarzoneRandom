@@ -18,11 +18,11 @@ Weaponlinks = ['https://gamewith.net/cod-coldwar/article/show/21938', 'https://g
  'https://gamewith.net/cod-coldwar/article/show/22129', 'https://gamewith.net/cod-coldwar/article/show/22400', 'https://gamewith.net/cod-coldwar/article/show/23894', 
  'https://gamewith.net/cod-coldwar/article/show/23896', 'https://gamewith.net/cod-coldwar/article/show/23488']
 
-WeaponsData = {}
+Weapons = {}
 
 # Data to be written
-def WeaponsUpdate(Name,WeaponType, WeaponFeature, UnlockLevel, MaxLevel, Optics, Muzzle, Barrel, Underbarrel, Body, Stock, Magazine, Handle):
-    Weapons ={
+def WeaponsUpdate(WeaponNumber, Name,WeaponType, WeaponFeature, UnlockLevel, MaxLevel, Optics, Muzzle, Barrel, Underbarrel, Body, Stock, Magazine, Handle):
+    Weapons[WeaponNumber] = {
         Name : {
         "WeaponType" : WeaponType,
         "WeaponFeature" : WeaponFeature,
@@ -44,35 +44,44 @@ def WeaponsUpdate(Name,WeaponType, WeaponFeature, UnlockLevel, MaxLevel, Optics,
 
     }
 
-    return Weapons
-
-# for r in range(len(Weaponlinks)):
-#     page = requests.get(WeaponClasslinks[r])
-
-#     soup = BeautifulSoup(page.content, 'html.parser')
-#     # results = soup.find('div', attrs={'class':'codcw_weapons'})
-#     # table = results.find('table')
-#     # table_body = table.find('tbody')
     
-#     # print(table_body)
-#     # #The urls for diffrent cold war guns
-#     # WeaponUrls=[]
-#     # break
-#     url = WeaponClasslinks[r]
-#     r = requests.get(url)
-#     df_list = pd.read_html(r.text) # this parses all the tables in webpages to a list
-#     df = df_list[1]
-#     print(df)
-#     df.head()
-#     break
+# WeaponsUpdate(1, "as", "as", "as", "as", "as", "as", "as", "as", "as", "as", "as", "as", "as")
+# WeaponsUpdate(2, "as", "as", "as", "as", "as", "as", "as", "as", "as", "as", "as", "as", "as")
+# print(Weapons)
+
+for link in range(len(Weaponlinks)):
+    try:
+        #First get the name of weapon
+        #Tables we need to fetch data from
+        Tables = [4,5,6,7,8,9,10,11]
+        url = Weaponlinks[link]
+        page = requests.get(url)
+        df_list = pd.read_html(page.text) # this parses all the tables in webpages to a list
+        #Gets the weapon Name from table 2
+        Table2 = df_list[2]
+        WeaponName = Table2[1][0]
+        #Gets the weapon type, weapon feature, unlock level, and maxlevel from table 1
+        Table1 = df_list[1]
+        WeaponType = Table1[1][0]
+        WeaponFeature = Table1[1][1]
+        UnlockLevel = Table1[1][2]
+        MaxLevel = Table1[1][3]
+        #pre-defind array since there are # 8 diffrent types of attatchmnets
+        Attachments =[[],[],[],[],[],[],[],[]]
+
+        for r in range(len(Tables)):
+            Table = df_list[Tables[r]]
+            for j in range(len(Table['Attachment'])):
+                Attachments[r].append(Table['Attachment'][j])
+            
 
 
-#     #get the div id from the html file
-#     # for ultag in soup.find(class='codcw_weapons'):
-#     #     #find the a's within
-#     #     for litag in ultag.find_all('a'):
-#     #         #get the href
-#     #         if litag.has_attr('href'):
-#     #             CWurls.append(ColdWarurl+litag.attrs['href'])
+        WeaponsUpdate(link, WeaponName, WeaponType, WeaponFeature, UnlockLevel, MaxLevel, Attachments[0], Attachments[1], Attachments[3] , Attachments[3], 
+        Attachments[4], Attachments[5], Attachments[6], Attachments[7])
 
-#     # print(CWurls)
+        print(Weapons)
+    except(KeyError):
+        print()
+
+with open('result.json', 'w') as fp:
+    json.dump(Weapons, fp)
